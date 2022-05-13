@@ -129,6 +129,9 @@ dmypy.json
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 **/*.ipynb_checkpoints/
+.ipynb/
+**/**/ipynb_checkpoints/
+**/**/**/ipynb_checkpoints/
 
 # IPython
 profile_default/
