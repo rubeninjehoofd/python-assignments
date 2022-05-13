@@ -127,11 +127,16 @@ dmypy.json
 # website: http://jupyter.org/
 
 .ipynb_checkpoints
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
 **/*.ipynb_checkpoints/
+**/*.ipynb_checkpoints/*
 .ipynb/
+.ipynb/*
 **/**/ipynb_checkpoints/
+**/**/ipynb_checkpoints/*
 **/**/**/ipynb_checkpoints/
+**/**/**/ipynb_checkpoints/*
 
 # IPython
 profile_default/
